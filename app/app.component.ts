@@ -3,7 +3,7 @@ import { UserList } from './users/userlist.component';
 
 @Component({
   selector: 'app',
-  styleUrls: ['app/components/app.component.css'],
+  styleUrls: ['app/app.component.css'],
   directives: [UserList],
   template: (
     `
